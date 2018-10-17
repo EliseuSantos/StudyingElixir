@@ -1,2 +1,2 @@
 # StudyingElixir
-Study
+Criando um TodoApp
